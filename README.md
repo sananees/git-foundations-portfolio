@@ -12,3 +12,7 @@ This fictional project is used to practice Git and GitHub skills safely.
 - [ ] Work with branches
 - [ ] Connect to GitHub
 - [ ] Push changes to GitHub
+
+## Next Steps
+
+- Continue practicing collaborative Git and GitHub workflows.
